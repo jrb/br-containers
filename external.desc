@@ -1,0 +1,2 @@
+name: br_containers
+desc: buildroot external for generating container images
