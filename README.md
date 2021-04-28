@@ -18,7 +18,7 @@ https://buildroot.org/downloads/manual/manual.html#requirement-mandatory
 
 If you're on Ubuntu, you can install the build deps as such:
 ```
-apt-get install build-essential libncurses5-dev git bzr cvs mercurial subversion libc6:i386 unzip bc
+apt-get install build-essential libncurses5-dev git bzr cvs mercurial subversion unzip bc
 ```
 
 ### Check out buildroot and br-containers
